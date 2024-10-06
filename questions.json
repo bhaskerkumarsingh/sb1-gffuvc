@@ -1,0 +1,122 @@
+[
+  {
+    "text": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"]
+  },
+  {
+    "text": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"]
+  },
+  {
+    "text": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"]
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"]
+  },
+  {
+    "text": "What is the chemical symbol for gold?",
+    "options": ["Ag", "Au", "Fe", "Cu"]
+  },
+  {
+    "text": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Korea", "Japan", "Thailand"]
+  },
+  {
+    "text": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"]
+  },
+  {
+    "text": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"]
+  },
+  {
+    "text": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"]
+  },
+  {
+    "text": "Which element has the chemical symbol 'O'?",
+    "options": ["Osmium", "Oxygen", "Oganesson", "Olivine"]
+  },
+  {
+    "text": "What is the largest mammal in the world?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"]
+  },
+  {
+    "text": "In which year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"]
+  },
+  {
+    "text": "What is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"]
+  },
+  {
+    "text": "Who invented the telephone?",
+    "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"]
+  },
+  {
+    "text": "What is the largest desert in the world?",
+    "options": ["Gobi Desert", "Kalahari Desert", "Sahara Desert", "Antarctic Desert"]
+  },
+  {
+    "text": "Which country is home to the Taj Mahal?",
+    "options": ["India", "Pakistan", "Bangladesh", "Nepal"]
+  },
+  {
+    "text": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"]
+  },
+  {
+    "text": "Who was the first woman to fly solo across the Atlantic?",
+    "options": ["Amelia Earhart", "Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"]
+  },
+  {
+    "text": "What is the main component of the Sun?",
+    "options": ["Liquid Lava", "Molten Iron", "Hydrogen", "Helium"]
+  },
+  {
+    "text": "Which country is known as the Land of Fire and Ice?",
+    "options": ["Norway", "Iceland", "Greenland", "Finland"]
+  },
+  {
+    "text": "What is the capital of Brazil?",
+    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"]
+  },
+  {
+    "text": "Who wrote '1984'?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "H.G. Wells"]
+  },
+  {
+    "text": "What is the largest species of big cat?",
+    "options": ["Lion", "Tiger", "Leopard", "Jaguar"]
+  },
+  {
+    "text": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Carbon", "Oxygen"]
+  },
+  {
+    "text": "What is the capital of South Africa?",
+    "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"]
+  },
+  {
+    "text": "Who discovered penicillin?",
+    "options": ["Marie Curie", "Louis Pasteur", "Alexander Fleming", "Joseph Lister"]
+  },
+  {
+    "text": "What is the largest moon of Saturn?",
+    "options": ["Enceladus", "Titan", "Mimas", "Rhea"]
+  },
+  {
+    "text": "Which country is the largest producer of coffee in the world?",
+    "options": ["Colombia", "Vietnam", "Brazil", "Ethiopia"]
+  },
+  {
+    "text": "What is the speed of light?",
+    "options": ["299,792 km/s", "300,000 km/s", "301,000 km/s", "298,000 km/s"]
+  },
+  {
+    "text": "Who painted 'The Starry Night'?",
+    "options": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Leonardo da Vinci"]
+  }
+]

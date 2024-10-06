@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Question Bank Simulator</title>
+  <script type="module" src="/main.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    #login, #test, #result {
+      margin-top: 20px;
+    }
+    input, button {
+      margin: 10px 0;
+      padding: 5px;
+    }
+    button {
+      cursor: pointer;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    #navigation {
+      margin-top: 10px;
+    }
+    .nav-btn {
+      margin-right: 5px;
+      margin-bottom: 5px;
+      background-color: #ddd;
+      color: black;
+    }
+    .nav-btn.answered {
+      background-color: #4CAF50;
+      color: white;
+    }
+    #testLink {
+      display: none;
+      margin-top: 10px;
+    }
+    #question label {
+      display: block;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <h1>Question Bank Simulator</h1>
+    <div id="login">
+      <h2>Create User ID</h2>
+      <input type="text" id="userId" placeholder="Enter your unique ID">
+      <button id="createUser">Create User</button>
+      <p id="userMessage"></p>
+      <p id="testLink"></p>
+    </div>
+    <div id="test" style="display: none;">
+      <h2>Test in Progress</h2>
+      <div id="question"></div>
+      <div id="navigation"></div>
+      <button id="submit">Submit Test</button>
+    </div>
+    <div id="result" style="display: none;">
+      <h2>Test Submitted</h2>
+    </div>
+  </div>
+</body>
+</html>
